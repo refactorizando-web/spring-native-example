@@ -1,0 +1,14 @@
+[
+{
+  "name":"com.refactorizando.example.springnative.Car"
+},
+{
+  "name":"java.time.LocalDate"
+},
+{
+  "name":"java.lang.String"
+},
+{
+  "name":"java.time.Ser"
+}
+]

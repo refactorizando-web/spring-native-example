@@ -4,7 +4,7 @@ This project born with the aim of make a simple reactive example
 with spring native.
 
 You can read more about Spring Native and this example in:
-https://refactorizando.com/introduccion--imagenes-nativas-graalvm-spring-native
+https://refactorizando.com/introduccion-imagenes-nativas-graalvm-spring-native
 
 == How does it work?
 
